@@ -1,0 +1,27 @@
+Dataset Distibution:
+
+linear64M baseline latency: 2.82 microseconds
+linear64M llsm (file) latency: 1.86 microseconds
+linear64M llsm (level) latency: 1.88 microseconds
+
+segmented1p64M baseline latency: 2.87 microseconds
+segmented1p64M llsm (file) latency: 2.00 microseconds
+segmented1p64M llsm (level) latency: 1.89 microseconds
+
+segmented10p64M baseline latency: 2.73 microseconds
+segmented10p64M llsm (file) latency: 2.05 microseconds
+segmented10p64M llsm (level) latency: 2.07 microseconds
+
+normal64M baseline latency: 3.58 microseconds
+normal64M llsm (file) latency: 2.57 microseconds
+normal64M llsm (level) latency: 2.54 microseconds
+
+ar baseline latency: 4.28 microseconds
+ar llsm (file) latency: 2.96 microseconds
+ar llsm (level) latency: 2.80 microseconds
+
+osm baseline latency: 3.58 microseconds
+osm llsm (file) latency: 2.55 microseconds
+osm llsm (level) latency: 2.54 microseconds
+
+
